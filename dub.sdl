@@ -1,0 +1,6 @@
+name "be"
+description "A simple vibe.d server application."
+copyright "Copyright © 2015, fang"
+authors "fang"
+dependency "vibe-d" version="~>0.7.23"
+versions "VibeCustomMain"
